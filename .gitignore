@@ -1,0 +1,7 @@
+# キャッシュファイルは巨大なため除外
+pokemon_cache.json
+pokemon_cache.json.bak
+check_coverage.py
+check_version_coverage.py
+.venv/
+__pycache__/
